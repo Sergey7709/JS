@@ -1,1 +1,3 @@
 # JS
+
+Всё по JavaScript
