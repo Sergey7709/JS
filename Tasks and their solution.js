@@ -10,7 +10,7 @@
 */
 let city = "London";
 let country = "UK";
-let Population = 68714493;
+let population = 68714493;
 let stadium = true;
 
 /* 
